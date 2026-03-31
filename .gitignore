@@ -36,7 +36,6 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env
-
 # vercel
 .vercel
 
@@ -47,3 +46,4 @@ DOCKER.md
 next-env.d.ts
 
 /app/generated/prisma
+"package-lock.json" 

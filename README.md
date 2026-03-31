@@ -28,7 +28,7 @@ A real-time anonymous polling application built with Next.js 14+, TypeScript, Pr
 
 ### Prerequisites
 
-- Node.js 18+ 
+- Node.js 18+
 - PostgreSQL database
 - Pusher account (for real-time features)
 
@@ -110,6 +110,7 @@ npm test -- --testPathPattern=property
 ## Documentation
 
 See the `.kiro/specs/settle-it-voting-app/` directory for detailed:
+
 - Requirements document
 - Design document
 - Implementation tasks
